@@ -1,2 +1,2 @@
 # Docs4DBKernel
-Docs4QueryEngineKernel
+Docs4DBKernel
